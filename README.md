@@ -221,13 +221,7 @@ This project demonstrates how SQL can be used to clean, explore, and analyze ret
 
 ---
 
-## Future Improvements
 
-* Build dashboards using Power BI or Tableau
-* Perform advanced analysis using Python
-* Extend queries using advanced SQL concepts such as CTEs and window functions
-
----
 
 
 
